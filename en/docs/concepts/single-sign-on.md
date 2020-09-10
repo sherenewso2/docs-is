@@ -6,7 +6,7 @@ Single Sign-On (SSO) occurs when a user enters their credentials to log in to an
 
 For instance, logging in to your Gmail account logs you in to other Google services such as Youtube as well. Notice that it only requires you to enter your credentials once. 
 
-**Single Logout** occurs when a user logs out of an application and is then simulatenously logged out of other connected applications without having to explicity log out of them one by one. For instance, if you log out of Gmail, you are automatically logged out of Youtube and other Google apps as well. 
+**Single Logout** (SLO) occurs when a user logs out of an application and is then simulatenously logged out of other connected applications without having to explicity log out of them one by one. For instance, if you log out of Gmail, you are automatically logged out of Youtube and other Google apps as well. 
 
 ----
 
