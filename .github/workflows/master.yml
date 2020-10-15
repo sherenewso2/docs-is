@@ -15,4 +15,5 @@ jobs:
           labels: docs
       - uses: IndyV/IssueChecker@v1.0
         with:
+          issue-close-message: "@${issue.user.login} this issue was automatically closed"
           issue-pattern: ".*Doc Feedback*"
